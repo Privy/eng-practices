@@ -8,10 +8,10 @@ make it available publicly when possible.
 
 Currently this contains the following documents:
 
-*   [Privy's Code Review Guidelines](review/index.md), which are actually two
+*   [Privy's Code Review Guidelines](docs/index.md), which are actually two
     separate sets of documents:
-    *   [The Code Reviewer's Guide](review/reviewer/index.md)
-    *   [The Change Author's Guide](review/developer/index.md)
+    *   [The Code Reviewer's Guide](docs/reviewer/index.md)
+    *   [The Change Author's Guide](docs/developer/index.md)
 
 ## Terminology
 

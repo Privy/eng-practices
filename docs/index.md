@@ -1,5 +1,7 @@
 # Code Review Developer Guide
 
+#### _NOTE: This documentation is a fork of Google's [eng-practices](https://github.com/google/eng-practices) repository._
+
 ## Introduction {#intro}
 
 A code review is a process where someone other than the author(s) of a piece of

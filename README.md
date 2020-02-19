@@ -18,11 +18,9 @@ Currently this contains the following documents:
 There is some Privy-internal terminology used in some of these documents, which
 we clarify here for external readers:
 
-*   **CL**: Stands for "changelist," which means one self-contained change that
-    has been submitted to version control or which is undergoing code review.
-    Other organizations often call this a "change" or a "patch."
+*   **PR**: Stands for "Pull Request."
 *   **LGTM**: Means "Looks Good to Me." It is what a code reviewer says when
-    approving a CL.
+    approving a PR.
 
 ## License
 

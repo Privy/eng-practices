@@ -37,7 +37,7 @@ Code reviews should look at:
     methods, etc.?
 -   **Comments**: Are the comments clear and useful?
 -   **Style**: Does the code follow our
-    [style guides](http://google.github.io/styleguide/)?
+    [style guides](https://privy-org.atlassian.net/wiki/spaces/ENG/pages/21561346/Style+Guides)?
 -   **Documentation**: Did the developer also update relevant documentation?
 
 See **[How To Do A Code Review](reviewer/)** for more information.

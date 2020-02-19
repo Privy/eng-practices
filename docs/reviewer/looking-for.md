@@ -106,9 +106,8 @@ should be used, and how it behaves when used.
 
 ## Style
 
-We have [style guides](http://google.github.io/styleguide/) at Google for all
-of our major languages, and even for most of the minor languages. Make sure the
-PR follows the appropriate style guides.
+We have [style guides](https://privy-org.atlassian.net/wiki/spaces/ENG/pages/21561346/Style+Guides)
+at Privy. Make sure the PR follows the appropriate style guides.
 
 If you want to improve some style point that isn't in the style guide, prefix
 your comment with "Nit:" to let the developer know that it's a nitpick that you

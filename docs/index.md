@@ -19,8 +19,8 @@ documents that are a part of this guide:
 
 -   **[How To Do A Code Review](reviewer/)**: A detailed guide for code
     reviewers.
--   **[The CL Author's Guide](developer/)**: A detailed guide for developers
-    whose CLs are going through review.
+-   **[The PR Author's Guide](developer/)**: A detailed guide for developers
+    whose PRs are going through review.
 
 ## What Do Code Reviewers Look For? {#look_for}
 
@@ -51,7 +51,7 @@ The best reviewer is the person who will be able to give you the most thorough
 and correct review for the piece of code you are writing. This usually means the
 owner(s) of the code, who may or may not be the people in the OWNERS file.
 Sometimes this means asking different people to review different parts of the
-CL.
+PR.
 
 If you find an ideal reviewer but they are not available, you should at least CC
 them on your change.
@@ -67,5 +67,5 @@ developer of the change speaks only when spoken to.
 ## See Also {#seealso}
 
 -   [How To Do A Code Review](reviewer/): A detailed guide for code reviewers.
--   [The CL Author's Guide](developer/): A detailed guide for developers whose
-    CLs are going through review.
+-   [The PR Author's Guide](developer/): A detailed guide for developers whose
+    PRs are going through review.

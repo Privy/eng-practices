@@ -55,7 +55,7 @@ choose to ignore.
 
 Note: Nothing in this document justifies checking in PRs that definitely
 _worsen_ the overall code health of the system. The only time you would do that
-would be in an [emergency](../emergencies.md).
+would be in an [emergency](emergencies.md).
 
 ## Mentoring
 
@@ -93,8 +93,7 @@ indicate that it's not mandatory for the author to resolve it in this PR.
 
 In any conflict on a code review, the first step should always be for the
 developer and reviewer to try to come to consensus, based on the contents of
-this document and the other documents in [The PR Author's Guide](../developer/)
-and this [Reviewer Guide](index.md).
+this document and the other documents in the [Code Review Developer Guide](index.md).
 
 When coming to consensus becomes especially difficult, it can help to have a
 face-to-face meeting or a video conference between the reviewer and the author, instead of

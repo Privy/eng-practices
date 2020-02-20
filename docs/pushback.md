@@ -56,7 +56,7 @@ code is in the codebase and "done." Letting people "clean things up later" is a
 common way for codebases to degenerate.
 
 If a PR introduces new complexity, it must be cleaned up before submission
-unless it is an [emergency](../emergencies.md). If the PR exposes surrounding
+unless it is an [emergency](emergencies.md). If the PR exposes surrounding
 problems and they can't be addressed right now, the developer should file a bug
 for the cleanup and assign it to themselves so that it doesn't get lost. They
 can optionally also write a TODO comment in the code that references the filed
@@ -66,7 +66,7 @@ bug.
 
 If you previously had fairly lax code reviews and you switch to having strict
 reviews, some developers will complain very loudly. Improving the
-[speed](speed.md) of your code reviews usually causes these complaints to fade
+speed of your code reviews usually causes these complaints to fade
 away.
 
 Sometimes it can take months for these complaints to fade away, but eventually
